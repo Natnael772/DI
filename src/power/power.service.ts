@@ -6,7 +6,7 @@ import { Injectable } from '@nestjs/common';
 export class PowerService {
   //amount of power that other services is requesting to be supplied
 
-  //supply watts that some other services need to work
+  //supply watts that some other services(cpu and disk) need to work
   supplyPower(watts: number) {
     console.log(`Supplying ${watts} worth of power`);
   }
