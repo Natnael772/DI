@@ -8,6 +8,6 @@ export class PowerService {
 
   //supply watts that some other services(cpu and disk) need to work
   supplyPower(watts: number) {
-    console.log(`Supplying ${watts} worth of power`);
+    console.log(`Supplying ${watts} watts worth of power`);
   }
 }
