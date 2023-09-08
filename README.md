@@ -1,1 +1,6 @@
-Nestjs code to illustrate dependency injection
+# Title 
+- DI(Dependency Injection)
+# Overview 
+- A minimal project to illustrate dependency injection in nestjs
+# Stack : 
+- NestJs + Typescript
